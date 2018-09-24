@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Юлия Максимова](https://up.htmlacademy.ru/javascript/9/user/367171).
+* Студент: [Игорь Посунько](https://up.htmlacademy.ru/javascript/9/user/367171).
 
 ---
 
